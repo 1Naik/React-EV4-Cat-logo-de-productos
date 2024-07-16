@@ -8,4 +8,17 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-"# React-EV4-Catalogo-de-productos - Nicol�s Tapia" 
+"# React-EV4-Catalogo-de-productos - Nicolas Tapia" 
+
+Para el proyecto solo hace falta instalar git para clonarlo y node.js para ejecturarlo.
+
+1.- Una vez clonado con 
+git clone "link-git"
+
+2.- Acceder a la ruta
+cd "ruta del proyecto"
+
+3.- ejecutar npm run dev y acceder al link de localhost
+
+
+
